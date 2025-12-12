@@ -1,0 +1,9 @@
+# MacOS
+.DS_Store
+
+# build
+build/
+my_build/
+.idea/
+libtorch-cxx11-abi-shared-with-deps-1.12.1+cu113/
+banana/

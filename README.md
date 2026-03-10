@@ -13,6 +13,10 @@ Commercial use allowed and encouraged under the terms of the [AGPLv3](https://ww
 
 We even have a [song](https://youtu.be/1bma7XJkoDM) 🎵
 
+## Documentation
+
+- Chinese deep-dive project documentation with function call trees: [`docs/PROJECT_DETAILED_CN.md`](docs/PROJECT_DETAILED_CN.md)
+
 ## Getting Started
 
 If you're on Windows, you can [buy](http://sites.fastspring.com/masseranolabs/product/opensplatforwindows) the pre-built program. This saves you time and helps support the project ❤️. Then jump directly to the [run](#run) section. As an alternative, check the [build](#build) section below.
